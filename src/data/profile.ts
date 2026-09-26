@@ -17,7 +17,7 @@ export const profile = {
   bioPlaceholder:
     "[Add a short personal bio here — a sentence or two about what you're working on and what you care about.]",
   contact: {
-    email: null, // e.g. "you@example.com" - not filled in, do not fabricate
+    email: "mohammed.a@atriauniversity.edu.in",
     linkedin: null,
   },
   resume: {
